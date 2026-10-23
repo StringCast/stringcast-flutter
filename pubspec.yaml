@@ -1,0 +1,31 @@
+name: stringcast
+description: Over-the-air localization for Flutter apps. Update copy and add languages from the StringCast portal without an app release.
+version: 0.1.0
+homepage: https://stringcast.app
+repository: https://github.com/stringcast/stringcast-flutter
+issue_tracker: https://github.com/stringcast/stringcast-flutter/issues
+documentation: https://console.stringcast.app/docs/flutter
+topics:
+  - localization
+  - l10n
+  - i18n
+  - translation
+  - ota
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  crypto: ^3.0.3
+  http: ^1.2.0
+  package_info_plus: ">=8.0.0 <11.0.0"
+  path_provider: ^2.1.0
+  web: ">=0.5.0 <2.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

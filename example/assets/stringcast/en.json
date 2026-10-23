@@ -1,0 +1,9 @@
+{
+  "welcome_title": "Welcome to StringCast",
+  "welcome_body": "Your strings are now updated over the air. Change them in the portal, publish, and tap refresh.",
+  "cta_refresh": "Refresh translations",
+  "language_label": "Language",
+  "greeting": "Hello, %1$s! You have %2$d new messages.",
+  "items_count": { "one": "%d item in your cart", "other": "%d items in your cart" },
+  "onboarding_steps": ["Upload your strings", "Translate with AI", "Publish a release"]
+}
